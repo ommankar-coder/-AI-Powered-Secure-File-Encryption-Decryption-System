@@ -1,0 +1,1 @@
+pip install streamlit sqlite3 hashlib os base64 json cryptography
